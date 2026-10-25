@@ -150,6 +150,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 - [HandBrake](https://handbrake.fr/) - Video transcoder with presets for devices and formats. 🆓 [🔓](https://github.com/HandBrake/HandBrake)
 - [IINA](https://iina.io/) - Modern video player built on mpv. 🆓 [🔓](https://github.com/iina/iina)
 - [SoundSource](https://rogueamoeba.com/soundsource/) - Per-app volume, output devices and audio effects from the menu bar.
+- [Teclo](https://teclo.app/) - Plays a mechanical keyboard sound for every key you press and release, in any app, from the menu bar.
 - [VLC](https://www.videolan.org/vlc/) - Media player for nearly every video and audio format. 🆓 [🔓](https://github.com/videolan/vlc)
 
 ## Design and Images
