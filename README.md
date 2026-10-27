@@ -52,6 +52,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 - [AeroSpace](https://github.com/nikitabobko/AeroSpace) - Tiling window manager in the style of i3, configured in a text file. 🆓 [🔓](https://github.com/nikitabobko/AeroSpace)
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows-style window switcher with previews of every window. 🆓 [🔓](https://github.com/lwouis/alt-tab-macos)
 - [Amethyst](https://ianyh.com/amethyst/) - Automatic tiling window manager with layouts you cycle through. 🆓 [🔓](https://github.com/ianyh/Amethyst)
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Restore windows to their monitor, Space and position when reconnecting an external display. 🆓 [🔓](https://github.com/tumingke0/LayoutKeeper)
 - [Loop](https://github.com/MrKai77/Loop) - Resize windows with a radial menu and keyboard shortcuts. 🆓 [🔓](https://github.com/MrKai77/Loop)
 - [Magnet](https://magnet.crowdcafe.com/) - Snap windows to halves, thirds and corners by dragging or shortcut.
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows to saved layouts and grid positions.
