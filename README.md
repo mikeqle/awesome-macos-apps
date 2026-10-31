@@ -63,6 +63,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 - [Ice](https://icemenubar.app/) - Hide and show menu bar items, with a separate bar for the hidden ones. 🆓 [🔓](https://github.com/jordanbaird/Ice)
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Detailed CPU, memory, disk, network and sensor readings in the menu bar.
 - [Itsycal](https://www.mowglii.com/itsycal/) - Small menu bar calendar with your events. 🆓 [🔓](https://github.com/sfsam/Itsycal)
+- [Kilobat](https://kilobat.app/) - Shows network activity and helps diagnose connection problems from the menu bar. 🔹
 - [Stats](https://github.com/exelban/stats) - System monitor for the menu bar: CPU, GPU, memory, disk, network, battery. 🆓 [🔓](https://github.com/exelban/stats)
 - [Vorssaint](https://vorssaint.com/) - Menu bar toolkit with per-app volume, a system monitor, window snapping, clipboard history and more; install only the parts you use (Apple Silicon). 🆓 [🔓](https://github.com/vorssaint/vorssaint-utils)
 
