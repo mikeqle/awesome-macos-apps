@@ -128,6 +128,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 - [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704) - Keep your Mac awake, with triggers and schedules. 🆓
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - Uninstall apps together with their leftover files. 🆓
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Control resolution, scaling, brightness and virtual displays. 🔹
+- [Diskfern](https://www.diskfern.com/) - Visualizes disk usage, finds large and developer-related files, and guides users through cleanup. 🔹
 - [ForkLift](https://binarynights.com/) - Dual-pane file manager with remote connections and sync.
 - [Hazel](https://www.noodlesoft.com/) - Rules that file, rename and clean up folders automatically.
 - [Keka](https://www.keka.io/) - Archiver for 7z, zip, rar and other formats. 🆓 [🔓](https://github.com/aonez/Keka)
