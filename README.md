@@ -60,6 +60,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 ## Menu Bar
 
 - [Bartender](https://www.macbartender.com/) - Hide, rearrange and show menu bar items.
+- [Headphone Control](https://kulaklikkontrol.github.io/) - Controls Sony headphone noise canceling, ambient sound, EQ, and multipoint from the menu bar; tested on WH-1000XM5 hardware only, with other models untested and unverified. 🆓
 - [Ice](https://icemenubar.app/) - Hide and show menu bar items, with a separate bar for the hidden ones. 🆓 [🔓](https://github.com/jordanbaird/Ice)
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Detailed CPU, memory, disk, network and sensor readings in the menu bar.
 - [Itsycal](https://www.mowglii.com/itsycal/) - Small menu bar calendar with your events. 🆓 [🔓](https://github.com/sfsam/Itsycal)
