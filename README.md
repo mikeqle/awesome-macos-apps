@@ -72,6 +72,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 - [Maccy](https://maccy.app/) - Lightweight, keyboard-first clipboard history. 🆓 [🔓](https://github.com/p0deje/Maccy)
 - [Paste](https://pasteapp.io/) - Clipboard history and pinboards, synced across Apple devices.
 - [PopClip](https://www.popclip.app/) - Actions that appear when you select text: copy, search, transform and extensions.
+- [Refrain](https://refrainformac.com/) - Menu bar app that keeps reusable text in one markdown file and pastes it from a shortcut and a few typed letters.
 - [TextExpander](https://textexpander.com/) - Snippets that expand as you type, shared across a team.
 - [Typinator](https://www.ergonis.com/products/typinator/) - Text expansion with abbreviations, rules and autocorrect sets.
 
