@@ -156,6 +156,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 
 - [Figma](https://www.figma.com/downloads/) - Collaborative interface design and prototyping. 🔹
 - [ImageOptim](https://imageoptim.com/mac) - Shrinks images losslessly and strips metadata. 🆓 [🔓](https://github.com/ImageOptim/ImageOptim)
+- [Louppe](https://louppe.eu/) - Cull photos and video from existing folders and memory cards, then copy the selected originals. 🆓 [🔓](https://github.com/murlexander/louppe-media-culler)
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Image editor with layers, vector tools and machine-learning features.
 - [Sketch](https://www.sketch.com/) - Native interface design tool with symbols and libraries.
 
