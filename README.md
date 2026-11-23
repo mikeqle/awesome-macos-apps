@@ -134,6 +134,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 - [Latest](https://max.codes/latest/) - Shows which installed apps have updates. 🆓 [🔓](https://github.com/mangerlahn/Latest)
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Brightness and volume keys for external displays. 🆓 [🔓](https://github.com/MonitorControl/MonitorControl)
 - [Mos](https://mos.caldis.me/) - Smooth scrolling and per-device scroll direction for mice. 🆓 [🔓](https://github.com/Caldis/Mos)
+- [QuickRight](https://apps.apple.com/us/app/quickright/id6763963598?mt=12) - Adds a right-click menu to Finder for creating files from templates, copying paths, opening a terminal in the current folder and converting images. 🔹
 - [The Unarchiver](https://theunarchiver.com/) - Opens rar, 7z, tar and many other archive formats. 🆓
 
 ## Browsers
