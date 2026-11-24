@@ -156,6 +156,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 
 - [Figma](https://www.figma.com/downloads/) - Collaborative interface design and prototyping. 🔹
 - [ImageOptim](https://imageoptim.com/mac) - Shrinks images losslessly and strips metadata. 🆓 [🔓](https://github.com/ImageOptim/ImageOptim)
+- [Linger](https://withlinger.com/) - Organizes design references, source links, and notes in a local Mac library with search and project canvases.
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Image editor with layers, vector tools and machine-learning features.
 - [Sketch](https://www.sketch.com/) - Native interface design tool with symbols and libraries.
 
