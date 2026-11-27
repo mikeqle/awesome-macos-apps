@@ -147,6 +147,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 ## Audio and Video
 
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record and process audio from any app or device.
+- [CineNotch](https://cinenotch.cam/) - Docks Safari and Chrome Picture in Picture into the MacBook notch so the video isn't over your work. [🔓](https://github.com/NikOneZ1/cinenotch)
 - [HandBrake](https://handbrake.fr/) - Video transcoder with presets for devices and formats. 🆓 [🔓](https://github.com/HandBrake/HandBrake)
 - [IINA](https://iina.io/) - Modern video player built on mpv. 🆓 [🔓](https://github.com/iina/iina)
 - [SoundSource](https://rogueamoeba.com/soundsource/) - Per-app volume, output devices and audio effects from the menu bar.
